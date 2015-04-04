@@ -1,0 +1,10 @@
+Assumptions:
+
+- It is assumed that each line is terminated by newline. Ex: Testcase given in question
+- Questions are assumed to be end with '?' (without quotes). Ex: how much is glob pish ?
+- Inputs are assumed to be case sensitive. Ex: glob is not GLOB.
+- Invalid input if any will be ignored 
+- Its assumed that the identifier closest to keyword 'is' in CREDITS info line is to be computed.
+- Roman numbers must be specified in capitals.
+- Invalid roman operations, would result in "Violated roman number format/operation" output.
+- If user inputs duplicate entries for any trading object, then the latest would be considered
